@@ -7,8 +7,8 @@ workflows:
     environment:
       xcode: latest
       vars:
-        XCODE_PROJECT: "WorkProof.xcodeproj"
-        XCODE_SCHEME: "WorkProof"
+        XCODE_PROJECT: "Garage Mate Car Care.xcodeproj"
+        XCODE_SCHEME: "Garage Mate"
 
     scripts:
       - name: Show Xcode project info
